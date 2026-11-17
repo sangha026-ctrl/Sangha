@@ -1,0 +1,6 @@
+{
+  "name": "KinoKhmer AI Video Studio",
+  "description": "កម្មវិធីផលិតវីដេអូ AI ពីគំនិត — ទាំងវីដេអូតុក្កតា 3D និងវីដេអូដូចមនុស្សពិតៗ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
